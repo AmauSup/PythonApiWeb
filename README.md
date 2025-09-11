@@ -1,4 +1,4 @@
-# 🥛 API Milk des Mammifères
+# API (MammalMilk)
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Flask Version](https://img.shields.io/badge/flask-2.3.2-blue.svg)](https://flask.palletsprojects.com/)
