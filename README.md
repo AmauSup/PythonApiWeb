@@ -141,7 +141,7 @@ mammal-milk-api/
  ├── requirements.txt   # Python dependencies
  └── README.md          # Documentation
 ```
-✅ Conclusion
+## ✅ Conclusion
 
 Ce projet illustre comment concevoir et implémenter une API REST Python simple mais robuste, avec une architecture propre, une intégration à la base de données et une documentation claire.
 
